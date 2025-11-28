@@ -1,0 +1,52 @@
+Tool	Department	Role	Why Needed	Access Level
+My PT Hub	Operations	Trainer	Trainers manage client schedules and sessions	Trainer
+My PT Hub	Operations	Admin	Ops managers oversee trainers, sessions, and client data	Admin
+My PT Hub	Clients	Client	Clients schedule sessions and view trainer availability	Client
+My PT Hub	Executives	Viewer	Executives monitor reports for oversight	Viewer
+Zendesk	Customer Experience	Agent	Respond to and manage support tickets	Agent
+Zendesk	Customer Experience	Admin	Configure support workflows and automations	Admin
+Zendesk	Executives	Viewer	Executives monitor customer service performance	Viewer
+Okta	IT	Super Admin	Manage global IAM settings and security	Super Admin
+Okta	IT	App Admin	Manage application-specific access and policies	App Admin
+Okta	IT	Helpdesk Admin	Assist users with MFA resets and password unlocks	Helpdesk Admin
+Okta	IT	Read-Only Admin	Review logs for security analysis	Read-Only Admin
+Okta	All Departments	User	Employees log in to apps via SSO	User
+1Password	IT	Admin	Manage company-wide vaults and policies	Admin
+1Password	All Departments	User	Employees store and retrieve work-related credentials	User
+1Password	Finance	Viewer	Finance analysts access shared finance vaults	Viewer
+Salesforce	Sales	Sales Rep	Manage leads, contacts, and opportunities	Sales Rep
+Salesforce	Sales	Sales Rep (probabtion)	View only 	Viewer
+Salesforce	Sales	Sales Manager	Assign leads, run reports, forecast revenue	Sales Manager
+Salesforce	Marketing	Viewer	Marketing reviews campaign-related customer data	Viewer
+Salesforce	Finance	Viewer	Finance team reviews revenue reports	Viewer
+Salesforce	Executives	Viewer	Execs review org-wide sales performance	Viewer
+Salesforce Admin	IT	Admin	Configure Salesforce and manage users	Admin
+Zoom	IT	Admin	Manage Zoom org settings and user accounts	Admin
+Zoom	All Departments	Licensed User	Employees host and record meetings	Licensed User
+Zoom	All Departments	Basic User	Probation staff attend meetings only	Basic User
+Zoom	Executives	Licensed User	Execs host leadership meetings	Licensed User
+Google Workspace	IT	Admin	Manage Google Workspace users and security	Admin
+Google Workspace	All Departments	Editor	Employees create, share, and collaborate on docs/sheets	Editor
+Google Workspace	Executives	Viewer	Execs access high-level company reports	Viewer
+Slack	IT	Admin	Manage workspace, integrations, user provisioning	Admin
+Slack	All Departments	Member	Employees communicate and collaborate	Member
+Slack	Contractors	Guest	Restricted access to project-specific channels	Guest
+Slack	Executives	Member	Execs communicate and review updates	Member
+Looker Studio	Marketing	Analyst	Build dashboards analyzing campaign and customer data	Analyst
+Looker Studio	Sales	Admin	Manage dashboards and share sales metrics	Admin
+Looker Studio	Executives	Viewer	Execs view high-level KPIs and dashboards	Viewer
+Looker Studio	IT	Viewer	Security analysts monitor dashboards	Viewer
+Shopify	Sales	Ops Editor	Manage customer orders and refunds	Ops Editor
+Shopify	Operations	Ops Editor	Update inventory and manage order fulfillment	Ops Editor
+Shopify	Finance	Finance Viewer	Finance managers review revenue and billing data	Finance Viewer
+Shopify	Executives	Viewer	Execs view company-wide revenue and product sales	Viewer
+Shopify	IT	Admin	Manage Shopify integrations and user settings	Admin
+Shopify	Clients	Customer	Customers browse products and place online orders	Customer
+Brivo	Security	Admin	Configure access rules, doors, and user permissions	Admin
+Brivo	Security	Security Analyst	Monitor logs, review access events, generate reports	Security Analyst
+Brivo	Operations	Viewer	Ops staff view store access reports for compliance	Viewer
+Brivo	Executives	Viewer	Execs view security dashboards and access logs	Viewer
+Workday	HR	HR Admin	Manage payroll, onboarding, and employee records	HR Admin
+Workday	Management	Manager	Approve leave requests, review direct reports	Manager
+Workday	All Departments	Employee	Employees update profiles and view paystubs	Employee
+Workday	Executives	Executive	Execs review org-wide HR and payroll reports	Executive
