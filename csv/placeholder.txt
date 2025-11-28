@@ -1,1 +1,21 @@
-
+First Name	Last Name	Email	Job Title	Role Description	Department	Location (City, State)	Manager Name	Manager Title	Manager Email
+Jordan	Parker	jordan.parker@fitvault	Chief Executive Officer (CEO)	Oversees company strategy, leadership, and vision	Executive	New York, NY	N/A	N/A	N/A
+Samantha	Tan	samantha.tan@fitvault	Chief Operating Officer (COO)	Leads operations, logistics, and business processes	Operations	New York, NY	Jordan Parker	Chief Executive Officer (CEO)	jordan.parker@fitvault
+Diego	Ramirez	diego.ramirez@fitvault	Chief Marketing Officer (CMO)	Directs marketing strategy, campaigns, and branding	Marketing	Los Angeles, CA	Jordan Parker	Chief Executive Officer (CEO)	jordan.parker@fitvault
+Anika	Choudhury	anika.choudhury@fitvault	Chief Technology Officer (CTO)	Oversees IT systems, security, and technology strategy	IT & Engineering	Seattle, WA	Jordan Parker	Chief Executive Officer (CEO)	jordan.parker@fitvault
+Liam	O'Connor	liam.oconnor@fitvault	Vice President of Sales	Leads sales team, revenue strategy, and customer accounts	Sales	Chicago, IL	Jordan Parker	Chief Executive Officer (CEO)	jordan.parker@fitvault
+Rachel	Nguyen	rachel.nguyen@fitvault	Operations Manager	Manages operations, inventory, and vendor relationships	Operations	New York, NY	Samantha Tan	Chief Operating Officer (COO)	samantha.tan@fitvault
+Mohammed	Khan	mohammed.khan@fitvault	Store Security Lead	Leads store physical security and staff coordination	Security	New York, NY	Rachel Nguyen	Operations Manager	rachel.nguyen@fitvault
+Priya	Desai	priya.desai@fitvault	Procurement Specialist	Handles purchasing, restocking, and supplier management	Operations	New York, NY	Rachel Nguyen	Operations Manager	rachel.nguyen@fitvault
+Lauren	Black	lauren.black@fitvault	Personal Training Coordinator	Manages client schedules, trainers, and fitness sessions	Operations	New York, NY	Rachel Nguyen	Operations Manager	rachel.nguyen@fitvault
+Sophia	Cruz	sophia.cruz@fitvault	Facilities Supervisor	Oversees maintenance, safety, and vendor compliance	Operations	New York, NY	Rachel Nguyen	Operations Manager	rachel.nguyen@fitvault
+Jenna	Lee	jenna.lee@fitvault	Digital Marketing Manager	Leads digital marketing campaigns and online presence	Marketing	Los Angeles, CA	Diego Ramirez	Chief Marketing Officer (CMO)	diego.ramirez@fitvault
+Travis	Hill	travis.hill@fitvault	Brand Strategist	Develops brand identity, messaging, and creative assets	Marketing	Los Angeles, CA	Diego Ramirez	Chief Marketing Officer (CMO)	diego.ramirez@fitvault
+Marcus	Bailey	marcus.bailey@fitvault	Marketing Coordinator	Assists with campaigns, events, and content creation	Marketing	Los Angeles, CA	Jenna Lee	Digital Marketing Manager	jenna.lee@fitvault
+Arjun	Mehta	arjun.mehta@fitvault	Sales Rep	Manages B2B and wholesale client accounts	Sales	Houston, TX	Liam O'Connor	Vice President of Sales	liam.oconnor@fitvault
+Emily	Rose	emily.rose@fitvault	Customer Experience Specialist	Supports customers, resolves inquiries, and ensures satisfaction	Sales	Chicago, IL	Liam O'Connor	Vice President of Sales	liam.oconnor@fitvault
+Derrick	Wells	derrick.wells@fitvault	Regional Sales Rep (West)	Drives sales across western U.S. region	Sales	San Diego, CA	Liam O'Connor	Vice President of Sales	liam.oconnor@fitvault
+Nina	Diaz	nina.diaz@fitvault	IT Systems Engineer	Designs and maintains IT systems and integrations	IT & Engineering	Seattle, WA	Anika Choudhury	Chief Technology Officer (CTO)	anika.choudhury@fitvault
+Kevin	Shaw	kevin.shaw@fitvault	IT Systems Engineer	Supports IT infrastructure, automation, and integrations	IT & Engineering	Seattle, WA	Anika Choudhury	Chief Technology Officer (CTO)	anika.choudhury@fitvault
+Natalie	Brooks	natalie.brooks@fitvault	IT Support Specialist	Provides user support and technical troubleshooting	IT & Engineering	Seattle, WA	Anika Choudhury	Chief Technology Officer (CTO)	anika.choudhury@fitvault
+Alex	Gomez	alex.gomez@fitvault	Security Analyst	Monitors cybersecurity, logs, and incident response	IT & Engineering	Seattle, WA	Anika Choudhury	Chief Technology Officer (CTO)	anika.choudhury@fitvault
